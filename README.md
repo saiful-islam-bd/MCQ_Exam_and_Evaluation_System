@@ -30,3 +30,14 @@ Version Control	Git
 1️⃣ Clone the Repository
 git clone <repository-url>
 cd mcq-exam-system
+
+
+| Layer           | Technology                                |
+| --------------- | ----------------------------------------- |
+| Backend         | Laravel 12, PHP 8.2                       |
+| Frontend        | Blade, HTML, CSS, Bootstrap 5, JavaScript |
+| Database        | MySQL                                     |
+| Auth            | Laravel Breeze                            |
+| Authorization   | Custom Middleware                         |
+| Version Control | Git                                       |
+
